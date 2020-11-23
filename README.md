@@ -1,7 +1,6 @@
 # Template2D-Unity202015f1
 
 ### Project description: 
-Introduction/Project summary 
 
 ### Development platform: 
 (Windows 10, Unity 2020.1.5f1, Visual Studio 2019)
