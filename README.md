@@ -1,10 +1,9 @@
 # Template2D-Unity202015f1
 
 ### Project description: 
-Introduction/Project summary 
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+(Windows 10, Unity 2020.1.5f1, Visual Studio 2019)
 
 ### Target platform: 
 WebGL, Mobile, VR Device incl. reference resolution 
@@ -19,10 +18,10 @@ Installation process, e.g. step by step instructions that I can run the project 
 (if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
 
 ### Project state: 
-incl. progress in percent
+5%
 
 ### Limitations: 
 
 ### Lessons Learned: 
 
-Copyright by you :)
+Copyright by Stefanie Zwingenberger
